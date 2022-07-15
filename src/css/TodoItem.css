@@ -1,0 +1,9 @@
+li {
+    border-color: black;
+    border: 5em;
+    border-radius: 2em;
+    background-color: #34495E;
+    margin: 1em;
+    padding: 0.5em;
+    list-style: none;    
+}
